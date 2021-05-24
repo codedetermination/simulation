@@ -1,0 +1,15 @@
+<package>
+  <description brief="robo_description">
+
+    robo_description
+
+  </description>
+  <author>JIm</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/robo_description</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+</package>
